@@ -1,0 +1,54 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.image-1{
+    float: left;
+    margin: 30px 60px 30px 30px;
+}
+
+.image-2{
+    width: 15%;
+    height: 150px;
+    margin: 5px 10px;
+}
+
+h2{
+    text-align: center;
+    clear: both;
+    background-color: chartreuse;
+    color: darkblue;
+    font-size: 30px;
+    padding: 5px;
+    border: 3px solid darkblue;
+}
+
+.text-1{
+    margin: 50px;
+    font-size: 20px;
+    font-style: oblique;
+    
+}
+
+.text-2{
+    margin: 20px;
+    font-size: 20px;
+    color: darkblue;
+    font-style: oblique;
+}
+
+
+a{
+    text-decoration: none;
+    color: red;
+    
+}
+
+ul{
+    padding-left: 0;
+}
+
+li{
+    list-style-type: none;
+}
